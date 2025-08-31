@@ -44,15 +44,15 @@
 
 ### 合作进群
 
-|              ![合作](wang.png)              | ![进群](https://github.com/qingkelab/qingketalk/raw/master/asset/qingke.png) |
-| :-----------------------------------------: | :----------------------------------------------------------: |
-| 合作&交流：如果您有成果想要分享，欢迎➕v联系 | 进群：如果您想加入技术交流群[社群列表](https://mp.weixin.qq.com/s/CXi5oCaT8pZqrATCmqhmAw)，欢迎添加小助手申请。 |
+| ![](https://github.com/qingkelab/qingketalk/raw/master/asset/wang.png) | ![进群](https://github.com/qingkelab/qingketalk/raw/master/asset/qingke.png) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|         合作&交流：如果您有成果想要分享，欢迎➕v联系          | 进群：如果您想加入技术交流群[社群列表](https://mp.weixin.qq.com/s/CXi5oCaT8pZqrATCmqhmAw)，欢迎添加小助手申请。 |
 
 ---
 
 ### 支持青稞社区
 
-| ![](image.png) |
-| :------------: |
-|  赞助青稞社区  |
+| ![](https://github.com/qingkelab/qingketalk/raw/master/asset/image.png) |
+| :----------------------------------------------------------: |
+|                         赞助青稞社区                         |
 
